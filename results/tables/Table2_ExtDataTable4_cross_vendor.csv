@@ -1,0 +1,41 @@
+variable,level,Strain sharing (n=232),No strain sharing (n=7841),Unadjusted OR (95% CI),Adjusted OR (95% CI)
+same_smp_type,1,62 (26.7%),1253 (16%),"1.92 (1.42, 2.57)","1.34 (0.97, 1.84)"
+same_smp_type,0,170 (73.3%),6588 (84%),NA,NA
+same_host,1,172 (74.1%),4291 (54.7%),"2.37 (1.77, 3.22)","2.06 (1.5, 2.85)"
+same_host,0,60 (25.9%),3550 (45.3%),NA,NA
+both_gt_median,1,56 (24.1%),1535 (19.6%),"1.28 (0.94, 1.73)","1.34 (0.97, 1.82)"
+both_gt_median,0,176 (75.9%),6184 (78.9%),NA,NA
+both_gt_llod,1,80 (34.5%),2554 (32.6%),NA,NA
+both_gt_llod,0,152 (65.5%),5165 (65.9%),NA,NA
+same_block,1,78 (33.6%),2066 (26.3%),"1.42 (1.07, 1.86)","1.43 (1.07, 1.91)"
+same_block,0,154 (66.4%),5775 (73.7%),NA,NA
+same_sh,1,24 (10.3%),772 (9.8%),NA,NA
+same_sh,0,203 (87.5%),6733 (85.9%),NA,NA
+sh_dry_slaughterhouse,1,17 (7.3%),609 (7.8%),NA,NA
+sh_dry_slaughterhouse,0,7 (3%),163 (2.1%),NA,NA
+sh_wood_surfaces,1,7 (3%),163 (2.1%),NA,NA
+sh_wood_surfaces,0,17 (7.3%),609 (7.8%),NA,NA
+sh_no_waste_container,1,8 (3.4%),303 (3.9%),NA,NA
+sh_no_waste_container,0,16 (6.9%),469 (6%),NA,NA
+both_secondary_school,1,72 (31%),1557 (19.9%),"1.82 (1.36, 2.4)","1.85 (1.38, 2.47)"
+both_secondary_school,0,160 (69%),6284 (80.1%),NA,NA
+both_scr_commercial,1,85 (36.6%),2654 (33.8%),NA,NA
+both_scr_commercial,0,147 (63.4%),5187 (66.2%),NA,NA
+both_clean_everyday,1,99 (42.7%),3060 (39%),NA,NA
+both_clean_everyday,0,133 (57.3%),4781 (61%),NA,NA
+both_fs_training,1,6 (2.6%),215 (2.7%),NA,NA
+both_fs_training,0,226 (97.4%),7626 (97.3%),NA,NA
+both_ppe_apron,1,38 (16.4%),1739 (22.2%),"0.69 (0.48, 0.97)","0.7 (0.48, 1.01)"
+both_ppe_apron,0,194 (83.6%),6102 (77.8%),NA,NA
+sameday,1,42 (18.1%),758 (9.7%),"2.07 (1.45, 2.88)","1.86 (1.3, 2.6)"
+sameday,0,190 (81.9%),7083 (90.3%),NA,NA
+sh_prop_dry_defeathering,NA,100 <c2><b1> 46.4,100 <c2><b1> 40.8,NA,NA
+sh_prop_slghtr_apron,NA,0 <c2><b1> 12.4,0 <c2><b1> 12.2,NA,NA
+sh_prop_slghtr_boots,NA,12.5 <c2><b1> 15.6,12.5 <c2><b1> 15.1,NA,NA
+sh_prop_feather_clean_slaugt_surf,NA,25 <c2><b1> 15.3,25 <c2><b1> 13.9,NA,NA
+sh_prop_flies_present,NA,0 <c2><b1> 11.6,0 <c2><b1> 10.2,NA,NA
+sh_prop_proc_apron,NA,12.5 <c2><b1> 16.5,12.5 <c2><b1> 16.9,NA,NA
+sh_prop_proc_boots,NA,25 <c2><b1> 15.3,25 <c2><b1> 13.9,NA,NA
+sh_prop_feather_clean_evisc_surf,NA,37.5 <c2><b1> 15.3,37.5 <c2><b1> 13.9,NA,NA
+sh_prop_feather_clean_evisc_utensil,NA,25 <c2><b1> 11.6,25 <c2><b1> 10.2,NA,NA
+sh_prop_carcrins,NA,0 <c2><b1> 40.6,0 <c2><b1> 35.7,NA,NA

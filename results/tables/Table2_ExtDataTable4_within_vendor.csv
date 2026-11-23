@@ -1,0 +1,41 @@
+variable,level,Strain sharing (n=82),No strain sharing (n=1025),Unadjusted OR (95% CI),Adjusted OR (95% CI)
+same_smp_type,1,11 (13.4%),119 (11.6%),NA,NA
+same_smp_type,0,71 (86.6%),906 (88.4%),NA,NA
+same_host,1,50 (61%),534 (52.1%),"1.66 (1.02, 2.69)","1.61 (0.99, 2.63)"
+same_host,0,32 (39%),491 (47.9%),NA,NA
+both_gt_median,1,23 (28%),216 (21.1%),"2.64 (1.45, 4.83)","2.52 (1.38, 4.6)"
+both_gt_median,0,59 (72%),796 (77.7%),NA,NA
+both_gt_llod,1,37 (45.1%),332 (32.4%),"1.92 (1.17, 3.15)",NA
+both_gt_llod,0,45 (54.9%),680 (66.3%),NA,NA
+edu_secondary,1,50 (61%),466 (45.5%),NA,NA
+edu_secondary,0,32 (39%),559 (54.5%),NA,NA
+work_five_yrs,1,17 (20.7%),426 (41.6%),NA,NA
+work_five_yrs,0,65 (79.3%),599 (58.4%),NA,NA
+fs_training,1,7 (8.5%),207 (20.2%),NA,NA
+fs_training,0,75 (91.5%),818 (79.8%),NA,NA
+purch_300,1,4 (4.9%),394 (38.4%),NA,NA
+purch_300,0,78 (95.1%),631 (61.6%),NA,NA
+scr_commercial,1,75 (91.5%),589 (57.5%),NA,NA
+scr_commercial,0,7 (8.5%),436 (42.5%),NA,NA
+clean_cage_everyday,1,75 (91.5%),682 (66.5%),NA,NA
+clean_cage_everyday,0,7 (8.5%),343 (33.5%),NA,NA
+vend_ppe.apron,1,21 (25.6%),548 (53.5%),NA,NA
+vend_ppe.apron,0,61 (74.4%),477 (46.5%),NA,NA
+dry_slaughterhouse,1,20 (24.4%),578 (56.4%),"0.29 (0.05, 1.62)","0.28 (0.05, 1.71)"
+dry_slaughterhouse,0,61 (74.4%),411 (40.1%),NA,NA
+wood_surfaces,1,48 (58.5%),259 (25.3%),NA,NA
+wood_surfaces,0,33 (40.2%),730 (71.2%),NA,NA
+no_waste_container,1,20 (24.4%),443 (43.2%),NA,NA
+no_waste_container,0,61 (74.4%),546 (53.3%),NA,NA
+cagebed_metal,1,49 (59.8%),409 (39.9%),NA,NA
+cagebed_metal,0,33 (40.2%),616 (60.1%),NA,NA
+prop_dry_defeathering,NA,0 <c2><b1> 42.7,100 <c2><b1> 43.1,NA,NA
+prop_slghtr_apron,NA,50 <c2><b1> 22.2,0 <c2><b1> 16.9,NA,NA
+prop_slghtr_boots,NA,50 <c2><b1> 21.4,12.5 <c2><b1> 18,NA,NA
+prop_feather_clean_slaugt_surf,NA,0 <c2><b1> 13.1,25 <c2><b1> 16.2,"0.96 (0.91, 1.02)",NA
+prop_flies_present,NA,0 <c2><b1> 18.7,0 <c2><b1> 18.7,NA,NA
+prop_proc_apron,NA,25 <c2><b1> 12.9,12.5 <c2><b1> 16.1,NA,NA
+prop_proc_boots,NA,50 <c2><b1> 20,25 <c2><b1> 17.4,NA,NA
+prop_feather_clean_evisc_surf,NA,50 <c2><b1> 18.9,37.5 <c2><b1> 18.8,NA,NA
+prop_feather_clean_evisc_utensil,NA,0 <c2><b1> 10.8,25 <c2><b1> 12.3,"0.95 (0.89, 1.02)",NA
+prop_carcrins,NA,50 <c2><b1> 24.2,0 <c2><b1> 33.8,NA,NA
